@@ -1,0 +1,6 @@
+input_email: //input[@id="email"]
+input_password: //input[@id="passwd"]
+button_signin: //button[@id="SubmitLogin"]
+forget_password: //p[@class="lost_password form-group"]
+invalid_login: (//div[@class="alert alert-danger"])[1]
+welcome_account: //p[@class="info-account"]

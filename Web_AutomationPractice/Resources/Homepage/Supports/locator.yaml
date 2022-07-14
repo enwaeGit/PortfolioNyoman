@@ -1,0 +1,2 @@
+featuresHome: //a[@class="homefeatured"]
+log_out: //a[@title="Log me out"]

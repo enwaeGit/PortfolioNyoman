@@ -1,0 +1,3 @@
+account_menu: //a[@title="View my customer account"]
+user_info: //i[@class="icon-user"]
+heading_user_info: //h1[@class="page-subheading"]
